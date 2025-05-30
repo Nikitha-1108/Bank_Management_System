@@ -12,5 +12,4 @@
    
                 Transaction_History Page
 ![Image](https://github.com/user-attachments/assets/4631e2b5-ee72-4213-8557-4cd22948b0c8)
-Admin_Login Page
-![Image](https://github.com/user-attachments/assets/670da015-a114-4c1f-a30a-bd610833c0bf)
+Admin_Login Page ![Image](https://github.com/user-attachments/assets/670da015-a114-4c1f-a30a-bd610833c0bf)
