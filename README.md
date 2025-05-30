@@ -19,7 +19,10 @@
                   Admin_Dashboard Page
 ![Image](https://github.com/user-attachments/assets/a2eec8df-db10-4625-8513-579f18e479f7)
 
-Employee_Login Page
+                 Employee_Login Page
 ![Image](https://github.com/user-attachments/assets/e877b1ef-31ad-4520-a15b-38b837da2a50)
+
+             Employee_Dashboard_login Page
+![Image](https://github.com/user-attachments/assets/ea3d2810-d092-4d5e-9170-572707b1c886)
 
 
